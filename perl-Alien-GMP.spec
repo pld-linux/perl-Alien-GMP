@@ -7,7 +7,7 @@
 Summary:	Alien::GMP - provide the C gmp library
 Name:		perl-Alien-GMP
 Version:	1.16
-Release:	5
+Release:	6
 License:	LGPL v3
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/Alien/%{pdir}-%{pnam}-%{version}.tar.gz
