@@ -16,6 +16,7 @@ URL:		https://metacpan.org/release/Alien-GMP
 BuildRequires:	gmp-devel
 BuildRequires:	perl-Alien-Base
 BuildRequires:	perl-Alien-Build >= 2.12
+BuildRequires:	perl-Devel-CheckLib
 BuildRequires:	perl-ExtUtils-MakeMaker >= 6.52
 BuildRequires:	perl-FFI-CheckLib
 BuildRequires:	perl-Test-Alien
